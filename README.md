@@ -1,4 +1,4 @@
-# AD-QuickOps
+# AD-UserDevice
 
 Script de PowerShell para operaciones rápidas sobre Active Directory: listar y auditar usuarios y equipos, detectar inactividad, bloqueos y deshabilitados, agrupar equipos por sistema operativo, comprobar hosts offline y exportar resultados a CSV/TXT. Incluye validaciones de entrada, manejo básico de errores y menú interactivo.
 
